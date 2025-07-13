@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    background-color: #f7f7f7;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+.container {
+    background-color: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+input[type="file"], button {
+    display: block;
+    margin-top: 20px;
+}
